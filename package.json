@@ -1,0 +1,12 @@
+{
+  "name": "pug-arch-day-01",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pug Arch Day 1 programming exercises and Employee Management CLI",
+  "scripts": {
+    "start": "node employee-management/app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
